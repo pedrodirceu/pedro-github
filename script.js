@@ -5,48 +5,48 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
-  {
-    "enunciado": "A substituição total dos livros impressos por materiais 100% digitais nas escolas públicas traria melhorias reais para o aprendizado dos alunos?",
-    "alternativas": [
-      {
-        "texto": "Sim, pois modernizaria o ensino, reduziria custos com impressões e facilitaria o acesso a conteúdos sempre atualizados através da internet.",
-        "afirmacao": "A digitalização escolar democratiza o acesso a materiais didáticos atualizados em tempo real, eliminando barreiras geográficas e logísticas na distribuição de livros."
-      },
-      {
-        "texto": "Não necessariamente, pois o uso exclusivo de telas pode aumentar a distração dos estudantes e prejudicar a fixação da leitura profunda.",
-        "afirmacao": "Embora a tecnologia traga dinamismo, estudos apontam que a leitura em papel estimula uma maior concentração e retenção de conteúdo complexo na infância e adolescência."
-      }
-    ]
-  },
-  {
-    "enunciado": "Diante do crescimento de formatos rápidos como audiobooks e resumos em vídeo, o hábito de ler livros longos perdeu o seu valor na sociedade moderna?",
-    "alternativas": [
-      {
-        "texto": "Sim, porque esses novos formatos transmitem a mesma informação essencial em muito menos tempo, otimizando a rotina das pessoas.",
-        "afirmacao": "Formatos alternativos como resumos e audiobooks atendem à necessidade de dinamismo do mundo moderno, permitindo o consumo de informação de forma prática."
-      },
-      {
-        "texto": "Não, pois a leitura detalhada desenvolve o pensamento crítico, a paciência e a capacidade de interpretação que os resumos rápidos não conseguem oferecer.",
-        "afirmacao": "O consumo de conteúdos resumidos oferece apenas uma camada superficial do conhecimento, sendo insubstituível o ganho cognitivo gerado pelo ato de ler uma obra na íntegra."
-      }
-    ]
-  },
-  {
-    "enunciado": "Os projetos de criação de bibliotecas comunitárias em bairros periféricos são eficazes para transformar os índices de leitura do país?",
-    "alternativas": [
-      {
-        "texto": "Com certeza, pois aproximam fisicamente os livros das populações que não possuem condições financeiras de comprá-los.",
-        "afirmacao": "Iniciativas locais de incentivo à leitura criam espaços de convivência e inclusão cultural, servindo como portas de entrada eficientes para novos leitores."
-      },
-      {
-        "texto": "Apenas parcialmente, pois além do acesso ao livro físico, é necessário haver políticas públicas de incentivo e mediação de leitura para criar leitores frequentes.",
-        "afirmacao": "A existência de uma biblioteca isolada não garante a formação do hábito; o estímulo contínuo através de oficinas e contação de histórias é indispensável para o sucesso do projeto."
-      }
-    ]
-  }
-]
+    {
+        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
+        alternativas: [
+            {
+                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
+                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
+            },
+            {
+                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
+                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
+            }
+        ]
+    },
+    {
+        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
+        alternativas: [
+            {
+                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
+                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
+            },
+            {
+                texto: "Ler livros didáticos e de autores conhecidos.",
+                afirmacao: "Para quem tem interessede começar na leitura não seria ideal começar diretamente pelos clássicos já que a leitura dos mesmos pode ser mais dificil dificultando assim a criação do habito da leitura."
+            }
+        ]
+    },
+    {
+        enunciado: "Atualmente vemos um grande aumentos nos valores dos livros físicos, oque dificulta a aquisição dos mesmos, a leitura digital vem se popularizou entre os leitores nos ultimos anos em parte pelos preços mais acessiveis, então seria ela uma alternativa viavel aos livros físicos?",
+        alternativas: [
+            {
+                texto: "Provavelmente, já que iria possibilitar uma maior aquisição por parte da população.",
+                afirmacao: "Já para quem não  tem condições de adquirir livros físicos os livros online são uma otima opção, pois permite a aquisição dos mesmos por um preço muito menor ou até mesmo gratuitamente, o que sem duvidas pode abrir grandes portas para esses leitores."
+            },
+            {
+                texto: "Não teria grande importância já que grande parte da população continuaria adquirindo livros físicos apesar dos preços.",
+                afirmacao: "Apesar do consumo de livros físicos ainda ser maioria os livros oline permitem que pessoas que não podem adquirir livros físicos tenham acesso a leitura, podendo gerar grandes oportunidades para esses leitores."
+            }
+        ]
+    },
+];
 
-   
+
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
