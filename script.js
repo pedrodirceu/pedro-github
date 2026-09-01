@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "A leitura contribui para a formação dos jovens, ampliando seus conhecimentos, melhorando a escrita e estimulando a criatividade."
             },
             {
-                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
-                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
+                texto: "A leitura serve apenas para melhorar as notas na escola.",
+                afirmacao: "A leitura possui benefícios que vão além da escola, contribuindo também para o desenvolvimento pessoal e intelectual dos jovens."
             }
         ]
     },
