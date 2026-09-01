@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao:"A automação e a inteligência artificial prometem transformar a velocidade de produção de materiais de estudo, desafiando o modelo tradicional de autoria."
             },
             {
-                texto: "Não, porque a escrita humana carrega experiências, nuances emocionais e senso crítico que os algoritmos não conseguem replicar de forma autêntica.",
+                texto: Sim, pois essas comunidades tornam a leitura algo moderno e visualmente atraente, conectando jovens com gostos literários parecidos.",
                 afirmacao:  "A sensibilidade e a profundidade do pensamento humano continuam sendo o pilar central da literatura, garantindo que os livros tradicionais permaneçam insubstituíveis."
     },
     {
