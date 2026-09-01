@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao:"A automação e a inteligência artificial prometem transformar a velocidade de produção de materiais de estudo, desafiando o modelo tradicional de autoria."
             },
             {
-                texto: Sim, pois essas comunidades tornam a leitura algo moderno e visualmente atraente, conectando jovens com gostos literários parecidos.",
-                afirmacao:  "A sensibilidade e a profundidade do pensamento humano continuam sendo o pilar central da literatura, garantindo que os livros tradicionais permaneçam insubstituíveis."
+                texto: "Sim, pois essas comunidades tornam a leitura algo moderno e visualmente atraente, conectando jovens com gostos literários parecidos.",
+                afirmacao:  "A influência digital provou ser uma ferramenta poderosa para democratizar o hábito de ler, transformando uma atividade solitária em um evento social e interativo."
     },
     {
         enunciado:"O uso de redes sociais focadas em leitura (como o 'BookTok' ou 'Skoob') ajuda de forma real a criar novos leitores frequentes?",
