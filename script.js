@@ -14,9 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Não, porque a escrita humana carrega experiências, nuances emocionais e senso crítico que os algoritmos não conseguem replicar de forma autêntica.",
-                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
-            }
-        ]
+                afirmacao:  "A sensibilidade e a profundidade do pensamento humano continuam sendo o pilar central da literatura, garantindo que os livros tradicionais permaneçam insubstituíveis."
     },
     {
         enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
