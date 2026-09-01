@@ -6,21 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Com o avanço das inteligências artificiais na escrita, os livros tradicionais escritos por humanos correm o risco de perder a relevância na educação?",
+        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
         alternativas: [
             {
-                texto: "Sim, pois as IAs conseguem produzir conteúdos didáticos personalizados e atualizados de forma muito mais rápida que um autor humano.",
-                afirmacao:"A automação e a inteligência artificial prometem transformar a velocidade de produção de materiais de estudo, desafiando o modelo tradicional de autoria."
+                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
+                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
             },
             {
-                texto: "Sim, pois essas comunidades tornam a leitura algo moderno e visualmente atraente, conectando jovens com gostos literários parecidos.",
-                afirmacao:  "A influência digital provou ser uma ferramenta poderosa para democratizar o hábito de ler, transformando uma atividade solitária em um evento social e interativo."
+                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
+                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
+            }
+        ]
     },
     {
-        enunciado:"A pirataria de livros digitais (PDFs e ePubs) deve ser combatida rigidamente ou ela funciona como uma ferramenta de democratização do acesso à cultura?",
+        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
         alternativas: [
             {
-                texto: Não muito, já que essas plataformas costumam focar em modismos passageiros ou em estéticas visuais, gerando mais compras de livros do que leituras reais.",
+                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
                 afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
             },
             {
