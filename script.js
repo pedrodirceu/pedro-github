@@ -20,7 +20,7 @@ const perguntas = [
         enunciado:"A pirataria de livros digitais (PDFs e ePubs) deve ser combatida rigidamente ou ela funciona como uma ferramenta de democratização do acesso à cultura?",
         alternativas: [
             {
-                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
+                texto: 
                 afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
             },
             {
