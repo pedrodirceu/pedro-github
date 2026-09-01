@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
+        enunciado: "Como as redes sociais podem influenciar o hábito de leitura dos jovens?",
         alternativas: [
             {
-                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
-                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
+                texto: "Como as redes sociais podem influenciar o hábito de leitura dos jovens?",
+                afirmacao: "As redes sociais podem influenciar positivamente ou negativamente a leitura, dependendo da forma e do tempo que os jovens utilizam essas plataformas."
             },
             {
-                texto: "Ler livros didáticos e de autores conhecidos.",
-                afirmacao: "Para quem tem interessede começar na leitura não seria ideal começar diretamente pelos clássicos já que a leitura dos mesmos pode ser mais dificil dificultando assim a criação do habito da leitura."
+                texto: "As redes sociais não possuem nenhuma influência sobre o hábito de leitura.",
+                afirmacao: "As redes sociais fazem parte da rotina de muitos jovens e podem influenciar seus hábitos, inclusive o contato com livros e conteúdos literários."
             }
         ]
     },
