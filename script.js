@@ -17,7 +17,7 @@ const perguntas = [
                 afirmacao:  "A influência digital provou ser uma ferramenta poderosa para democratizar o hábito de ler, transformando uma atividade solitária em um evento social e interativo."
     },
     {
-        enunciado:"O uso de redes sociais focadas em leitura (como o 'BookTok' ou 'Skoob') ajuda de forma real a criar novos leitores frequentes?",
+        enunciado:"A pirataria de livros digitais (PDFs e ePubs) deve ser combatida rigidamente ou ela funciona como uma ferramenta de democratização do acesso à cultura?",
         alternativas: [
             {
                 texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
