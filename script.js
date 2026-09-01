@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
+        enunciado: "Com o avanço das inteligências artificiais na escrita, os livros tradicionais escritos por humanos correm o risco de perder a relevância na educação?",
         alternativas: [
             {
-                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
-                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
+                texto: "Sim, pois as IAs conseguem produzir conteúdos didáticos personalizados e atualizados de forma muito mais rápida que um autor humano.",
+                afirmacao:"A automação e a inteligência artificial prometem transformar a velocidade de produção de materiais de estudo, desafiando o modelo tradicional de autoria."
             },
             {
-                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
+                texto: "Não, porque a escrita humana carrega experiências, nuances emocionais e senso crítico que os algoritmos não conseguem replicar de forma autêntica.",
                 afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
             }
         ]
