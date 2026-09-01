@@ -17,7 +17,7 @@ const perguntas = [
                 afirmacao:  "A sensibilidade e a profundidade do pensamento humano continuam sendo o pilar central da literatura, garantindo que os livros tradicionais permaneçam insubstituíveis."
     },
     {
-        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
+        enunciado:"O uso de redes sociais focadas em leitura (como o 'BookTok' ou 'Skoob') ajuda de forma real a criar novos leitores frequentes?",
         alternativas: [
             {
                 texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
