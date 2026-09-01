@@ -32,15 +32,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Atualmente vemos um grande aumentos nos valores dos livros físicos, oque dificulta a aquisição dos mesmos, a leitura digital vem se popularizou entre os leitores nos ultimos anos em parte pelos preços mais acessiveis, então seria ela uma alternativa viavel aos livros físicos?",
+        enunciado: "Qual é uma boa maneira de incentivar os jovens a lerem mais?",
         alternativas: [
             {
-                texto: "Provavelmente, já que iria possibilitar uma maior aquisição por parte da população.",
-                afirmacao: "Já para quem não  tem condições de adquirir livros físicos os livros online são uma otima opção, pois permite a aquisição dos mesmos por um preço muito menor ou até mesmo gratuitamente, o que sem duvidas pode abrir grandes portas para esses leitores."
+                texto: "Oferecer livros de diferentes gêneros e permitir que os jovens escolham assuntos que despertem seu interesse.",
+                afirmacao: "Permitir que os jovens tenham contato com diferentes tipos de livros e escolham assuntos de seu interesse pode tornar a leitura mais prazerosa e ajudar na criação do hábito."
             },
             {
-                texto: "Não teria grande importância já que grande parte da população continuaria adquirindo livros físicos apesar dos preços.",
-                afirmacao: "Apesar do consumo de livros físicos ainda ser maioria os livros oline permitem que pessoas que não podem adquirir livros físicos tenham acesso a leitura, podendo gerar grandes oportunidades para esses leitores."
+                texto: "Obrigar os jovens a lerem apenas livros considerados importantes.",
+                afirmacao: "A obrigação de ler apenas determinados livros pode diminuir o interesse, sendo mais adequado apresentar diferentes opções para despertar a curiosidade dos jovens."
             }
         ]
     },
